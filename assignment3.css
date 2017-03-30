@@ -1,1 +1,50 @@
 /*styles for assignment 3*/
+
+h1 {
+  color: #51A3A3;
+  font-weight: bold;
+  margin: 8px;
+
+}
+
+h2 {
+  color: #C2C5BB;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  color: #75485E;
+  font-weight: bold;
+  margin: 8px;
+
+}
+
+input {
+  margin: 8px;
+  height: 40px;
+  width: 200px;
+  font-size: 20px;
+  color: #B5BA72;
+  text-align: center;
+}
+
+#button {
+  width: 200px;
+  height: 40px;
+  background-color: #68A691;
+  border: none;
+  font-size: 20px;
+  color: #FFE5D4;
+}
+
+form {
+  display: block;
+  text-align: center;
+  margin: 5em;
+}
+
+body {
+  background-color: #F3F3F3;
+  font-family: 'neue-helvetica', 'Helvetica Neue', Helvetica, sans-serif;
+}
